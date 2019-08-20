@@ -1,6 +1,6 @@
 # klimatic
 
-A new Flutter project.
+A Simple Climate App which by default Temperature of Delhi and also has a Search button to get Temperature of Any city in the World.
 
 ## Getting Started
 
